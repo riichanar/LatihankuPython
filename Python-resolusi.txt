@@ -1,6 +1,6 @@
 PYTHON RESOLUSI
-- Konsisten belajar ngoding
 - Memahami Python
 - Memahami perulangan
 - Membuat project kalkulator menggunakan python
 - Konsisten belajar 5x seminggu
+- Membuat project game
