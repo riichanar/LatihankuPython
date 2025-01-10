@@ -1,0 +1,5 @@
+PYTHON RESOLUSI
+- Konsisten belajar ngoding
+- Memahami Python
+- Memahami perulangan
+- Membuat project kalkulator menggunakan python
